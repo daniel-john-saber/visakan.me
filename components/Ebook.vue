@@ -2,7 +2,6 @@
   <div class="is-transparent hero-body" >
       <div class="container has-text-centered">
         <h2 class="is-subtitle">
-        {{ this.$vssHeight }}
           presenting my best work . . .  
         </h2>
         <div class="columns">
