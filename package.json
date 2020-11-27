@@ -1,0 +1,28 @@
+{
+  "name": "visa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "ant-design-vue": "^1.7.2",
+    "core-js": "^3.6.5",
+    "less": "^3.12.2",
+    "less-loader": "^7.1.0",
+    "nuxt": "^2.14.6",
+    "nuxt-buefy": "^0.4.3",
+    "nuxt-ssr-screen-size": "github:hugojerez/nuxt-ssr-screen-size",
+    "vue-screen": "^1.5.3",
+    "vue-scrollto": "^2.20.0"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0"
+  }
+}
